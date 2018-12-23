@@ -4,3 +4,4 @@ with open('vietnam_cities.csv', newline='') as csvfile:
     for i in reader:
         print(i)
 https://www.researchgate.net/publication/282245639_Heuristic_Approaches_to_Solve_Traveling_Salesman_Problem
+    https://codereview.stackexchange.com/questions/72265/2-opt-algorithm-for-traveling-salesman
